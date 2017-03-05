@@ -4,9 +4,8 @@
 
     <test name="order">
         <classes>
-            <class name="FirstTest" >
-
-            </class>
+            <class name="FirstTest" />
+            <class name="GoToChrome"/>
         </classes>
     </test>
 </suite>
