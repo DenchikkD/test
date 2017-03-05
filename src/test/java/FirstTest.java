@@ -17,4 +17,11 @@ public class FirstTest {
        softAssert.assertAll();
 
     }
+    @Test
+    public void testTwo(){
+        SoftAssert softAssert = new SoftAssert();
+
+        softAssert.assertEquals("test","test","BLA-BLA");
+        softAssert.assertAll();
+    }
 }

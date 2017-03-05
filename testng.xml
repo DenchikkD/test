@@ -5,9 +5,7 @@
     <test name="order">
         <classes>
             <class name="FirstTest" >
-            <methods>
-                <include name="myTest" />
-            </methods>
+
             </class>
         </classes>
     </test>
