@@ -13,7 +13,7 @@ public class FirstTest {
     public void myTest(){
        SoftAssert softAssert = new SoftAssert();
 
-       softAssert.assertEquals("test","test","BLA-BLA");
+       softAssert.assertEquals("test1","test","BLA-BLA");
        softAssert.assertAll();
 
     }
